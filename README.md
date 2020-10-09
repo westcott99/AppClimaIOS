@@ -1,2 +1,2 @@
 # AppClimaIOS
-Applicacion de pronostico del clima desarrollada en sistemas IOS
+Aplicacion de pronostico del clima junto a Mapa desarrollada en sistemas IOS
